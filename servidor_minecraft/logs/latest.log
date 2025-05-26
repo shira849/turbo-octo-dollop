@@ -2338,3 +2338,101 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:ice_bricks'
 [26May2025 22:48:21.180] [Server thread/INFO] [Jade/]: Syncing config to Shiraori30 (80b16fbd-60cd-3db4-9f72-354cdd1aeef7)
 [26May2025 22:48:26.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tatoooo has made the advancement [Alex's Mobs]
 [26May2025 22:50:47.488] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26May2025 22:51:40.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tatoooo moved too quickly! -9.441661198623422,2.0013359791121417,-2.7896542052886275
+[26May2025 22:52:57.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tatoooo has made the advancement [Mining]
+[26May2025 22:53:00.550] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[26May2025 22:53:00.551] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[26May2025 22:54:42.552] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[26May2025 22:55:35.438] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[26May2025 23:01:00.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tatoooo has completed the challenge [Free Willy]
+[26May2025 23:01:22.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiraori30 has completed the challenge [Free Willy]
+[26May2025 23:03:06.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tatoooo has made the advancement [Pic-A-Nic Basket?]
+[26May2025 23:03:08.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tatoooo was slain by Grizzly Bear
+[26May2025 23:04:27.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiraori30 has made the advancement [Mine? Mine? Mine?]
+[26May2025 23:04:54.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiraori30 has made the advancement [Mining]
+[26May2025 23:06:09.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tatoooo was slain by Grizzly Bear
+[26May2025 23:07:44.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -1.1757041305591258,0.0,10.286111220298608
+[26May2025 23:07:44.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -1.2766628693609974,0.0,10.670962613261963
+[26May2025 23:07:44.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -1.3813653771868744,0.0,11.054858367267911
+[26May2025 23:07:44.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -1.489606246899811,0.0,11.437831304895894
+[26May2025 23:07:44.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -1.6011823954118967,0.0,11.819916993986112
+[26May2025 23:07:44.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -1.7158964923083246,0.0,12.201152325724365
+[26May2025 23:07:44.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -1.8335564432532863,0.0,12.581575538769357
+[26May2025 23:07:44.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -1.953974918535998,0.0,12.961226222341224
+[26May2025 23:07:44.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -2.0769760626930776,0.0,13.340142506407005
+[26May2025 23:07:44.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -2.20239080340113,0.0,13.718362671645082
+[26May2025 23:07:44.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -2.330056201102259,0.0,14.095925212604811
+[26May2025 23:07:44.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -2.4598184250445883,0.0,14.472867460314205
+[26May2025 23:07:44.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -2.5915318573025914,0.0,14.84922573588483
+[26May2025 23:07:44.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -2.7250618403223683,0.0,15.22503405824466
+[26May2025 23:07:44.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -2.860276484206203,0.0,15.600327272632626
+[26May2025 23:07:44.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -2.997057059178303,0.0,15.97513667270789
+[26May2025 23:07:44.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -3.3503618259587356,0.0,9.802528405845237
+[26May2025 23:07:44.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -3.498236923347619,0.0,10.173764825511853
+[26May2025 23:07:44.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -3.6467132970587244,0.0,10.544798931607716
+[26May2025 23:07:44.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -3.7957414374541614,0.0,10.915646526124533
+[26May2025 23:07:44.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -3.9452767858610116,0.0,11.286321830854604
+[26May2025 23:07:44.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -4.0952792376120755,0.0,11.656837641685115
+[26May2025 23:07:44.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -4.24570915948204,0.0,12.027206950129425
+[26May2025 23:07:44.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -4.396534417800879,0.0,12.397439965883564
+[26May2025 23:07:44.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -3.9485220880369454,0.0,9.616421012034493
+[26May2025 23:07:44.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -4.102837287416335,0.0,9.985420167615985
+[26May2025 23:07:44.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -4.257219417861158,0.0,10.35439483306152
+[26May2025 23:07:44.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -4.4116617862632665,0.0,10.72334745738533
+[26May2025 23:07:44.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -4.566158368825505,0.0,11.092280244700078
+[26May2025 23:07:44.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -4.720707279431053,0.0,11.461193696041619
+[26May2025 23:07:44.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -4.8753032852743345,0.0,11.83008974500774
+[26May2025 23:07:44.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -5.029941676830454,0.0,12.19897013183629
+[26May2025 23:07:44.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -5.1846182155271165,0.0,12.567836422741493
+[26May2025 23:07:44.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -5.339329086649357,0.0,12.936690027316104
+[26May2025 23:07:44.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -5.494070856953805,0.0,13.305532214193363
+[26May2025 23:07:44.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -5.648840436521496,0.0,13.674364125143256
+[26May2025 23:07:44.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -5.803638579725941,0.0,14.043185301367998
+[26May2025 23:07:44.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -5.958462430202779,0.0,14.411996816340434
+[26May2025 23:07:44.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -6.1133094172241655,0.0,14.780799636185861
+[26May2025 23:07:44.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -6.268177227135084,0.0,15.149594630417255
+[26May2025 23:07:44.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -6.423063777646092,0.0,15.518382581596256
+[26May2025 23:07:44.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -6.577967194696733,0.0,15.887164194028287
+[26May2025 23:07:44.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -6.73288579163264,0.0,16.255940101588067
+[26May2025 23:07:44.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -6.887818050464922,0.0,16.624710874763082
+[26May2025 23:07:44.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -7.042762605003617,0.0,16.993477026991854
+[26May2025 23:07:44.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -7.1977182256777965,0.0,17.362239020369202
+[26May2025 23:07:44.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -7.3533248026054565,0.0,17.73072111501051
+[26May2025 23:07:44.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -7.510722118237545,0.0,18.09839564767094
+[26May2025 23:07:44.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -7.6707978429884776,0.0,18.464810065734014
+[26May2025 23:07:44.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -7.8342339228584805,0.0,18.82958136447371
+[26May2025 23:07:44.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -8.00153415542571,0.0,19.192395755830034
+[26May2025 23:07:44.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -8.173058556157478,0.0,19.553001001682333
+[26May2025 23:07:44.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -8.349047051713178,0.0,19.911201696816534
+[26May2025 23:07:44.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -8.529643556905832,0.0,20.26685174533918
+[26May2025 23:07:44.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -8.714910765218427,0.0,20.619850770848984
+[26May2025 23:07:44.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -8.90484945426033,0.0,20.970135819196116
+[26May2025 23:07:44.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -9.099409183094721,0.0,21.31767757900343
+[26May2025 23:07:44.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -9.298500782718676,0.0,21.66247426439861
+[26May2025 23:07:44.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -9.502001208622012,0.0,22.00455029297484
+[26May2025 23:07:44.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -9.709766895353042,0.0,22.343947846539777
+[26May2025 23:07:44.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -9.921636445637851,0.0,22.680725977587713
+[26May2025 23:07:44.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -10.13743597866575,0.0,23.014957286828235
+[26May2025 23:07:44.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! -6.562702567826783,0.0,14.099330120133232
+[26May2025 23:07:44.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! 6.997420335722097,0.0,-18.67846839087838
+[26May2025 23:07:44.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! 6.997420335722097,0.0,-18.67846839087838
+[26May2025 23:07:44.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! 6.997420335722097,0.0,-18.67846839087838
+[26May2025 23:07:44.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! 6.997420335722097,0.0,-18.67846839087838
+[26May2025 23:07:44.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! 6.997420335722097,0.0,-18.67846839087838
+[26May2025 23:07:44.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! 6.997420335722097,0.0,-18.67846839087838
+[26May2025 23:07:44.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! 6.997420335722097,0.0,-18.67846839087838
+[26May2025 23:07:44.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! 6.997420335722097,0.0,-18.67846839087838
+[26May2025 23:07:44.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! 6.997420335722097,0.0,-18.67846839087838
+[26May2025 23:07:44.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! 6.997420335722097,0.0,-18.67846839087838
+[26May2025 23:07:44.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! 6.997420335722097,0.0,-18.67846839087838
+[26May2025 23:07:44.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! 6.997420335722097,0.0,-18.67846839087838
+[26May2025 23:07:44.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! 6.997420335722097,0.0,-18.67846839087838
+[26May2025 23:07:44.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! 6.997420335722097,0.0,-18.67846839087838
+[26May2025 23:07:44.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! 6.997420335722097,0.0,-18.67846839087838
+[26May2025 23:07:44.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! 6.997420335722097,0.0,-18.67846839087838
+[26May2025 23:07:47.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiraori30 has made the advancement [Monster Hunter]
+[26May2025 23:08:14.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiraori30 has made the advancement [The Beginning of An Adventure]
+[26May2025 23:08:14.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiraori30 has made the advancement [Fortune Seeker]
+[26May2025 23:08:40.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiraori30 has made the advancement [A True Source of Evil]
+[26May2025 23:09:32.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tatoooo has made the advancement [Mine? Mine? Mine?]
+[26May2025 23:09:52.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tatoooo has made the advancement [Best Friends Forever]
