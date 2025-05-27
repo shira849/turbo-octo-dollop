@@ -1037,7 +1037,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:pillager": "2025-05-26 23:25:56 +0000"
+      "minecraft:pillager": "2025-05-26 23:25:56 +0000",
+      "minecraft:zombie": "2025-05-27 00:04:43 +0000"
     },
     "done": false
   },
@@ -1074,6 +1075,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-26 23:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-05-27 00:06:43 +0000"
     },
     "done": true
   },
@@ -1298,6 +1305,12 @@
       "has_logs": "2025-05-26 22:43:08 +0000"
     },
     "done": true
+  },
+  "brewery:main/wild_crops": {
+    "criteria": {
+      "hops_seeds": "2025-05-27 00:00:37 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/stone_tomahawk": {
     "criteria": {
@@ -1839,6 +1852,12 @@
     },
     "done": true
   },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2025-05-27 00:04:43 +0000"
+    },
+    "done": true
+  },
   "endrem:main/corrupted_eye": {
     "criteria": {
       "corrupted_eye": "2025-05-26 23:23:38 +0000"
@@ -1898,6 +1917,7 @@
       "dead_forest": "2025-05-26 23:02:54 +0000",
       "pumpkin_patch": "2025-05-26 22:55:37 +0000",
       "snowy_coniferous_forest": "2025-05-26 23:03:04 +0000",
+      "glowing_grotto": "2025-05-27 00:06:07 +0000",
       "crag": "2025-05-26 22:55:46 +0000"
     },
     "done": false
@@ -2019,6 +2039,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-05-26 22:45:45 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/cyan_flower": {
+    "criteria": {
+      "kill": "2025-05-27 00:02:47 +0000"
     },
     "done": true
   },

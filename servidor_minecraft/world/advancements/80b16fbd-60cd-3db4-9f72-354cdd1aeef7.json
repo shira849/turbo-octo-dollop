@@ -2835,6 +2835,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-27 00:04:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-05-26 23:38:58 +0000"
@@ -2911,6 +2917,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-05-27 00:04:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-05-26 23:58:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-26 23:11:33 +0000"
@@ -2978,9 +2996,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-27 00:03:44 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/medium_quiver_brace": {
     "criteria": {
       "has_gold_ingot": "2025-05-26 23:11:33 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/oni": {
+    "criteria": {
+      "kill": "2025-05-27 00:03:45 +0000"
     },
     "done": true
   },
@@ -3002,15 +3032,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-05-26 23:58:39 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_greatsword": {
     "criteria": {
       "has_silver_ingot": "2025-05-26 23:36:52 +0000"
     },
     "done": true
   },
+  "farm_and_charm:recipes/pitchfork": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-27 00:03:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-05-26 23:11:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-27 00:04:20 +0000"
     },
     "done": true
   },
@@ -3047,6 +3095,18 @@
   "spartanweaponry:recipes/golden_warhammer": {
     "criteria": {
       "has_gold_ingot": "2025-05-26 23:11:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_feather": "2025-05-26 23:58:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-05-26 23:58:39 +0000"
     },
     "done": true
   },
@@ -3095,6 +3155,18 @@
   "spartanweaponry:recipes/silver_scythe": {
     "criteria": {
       "has_silver_ingot": "2025-05-26 23:36:52 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/breathalyzer": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-27 00:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-27 00:03:44 +0000"
     },
     "done": true
   },
@@ -3200,6 +3272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-05-26 23:58:39 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_boomerang": {
     "criteria": {
       "has_silver_ingot": "2025-05-26 23:36:52 +0000"
@@ -3215,6 +3293,12 @@
   "spartanweaponry:recipes/silver_heavy_crossbow": {
     "criteria": {
       "has_silver_ingot": "2025-05-26 23:36:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-05-26 23:58:39 +0000"
     },
     "done": true
   },
@@ -3245,6 +3329,7 @@
       "dead_forest": "2025-05-26 23:02:28 +0000",
       "pumpkin_patch": "2025-05-26 22:55:44 +0000",
       "snowy_coniferous_forest": "2025-05-26 23:02:36 +0000",
+      "glowing_grotto": "2025-05-27 00:06:13 +0000",
       "crag": "2025-05-26 22:55:34 +0000"
     },
     "done": false
@@ -3387,6 +3472,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_feather": "2025-05-26 23:58:39 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_lance": {
     "criteria": {
       "has_silver_ingot": "2025-05-26 23:36:52 +0000"
@@ -3396,6 +3487,12 @@
   "forbidden_arcanus:recipes/misc/deorum_ingot": {
     "criteria": {
       "has_gold_ingot": "2025-05-26 23:11:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_feather": "2025-05-26 23:58:39 +0000"
     },
     "done": true
   },
@@ -3438,6 +3535,12 @@
   "endrem:main/root": {
     "criteria": {
       "old_eye": "2025-05-26 23:08:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_feather": "2025-05-26 23:58:39 +0000"
     },
     "done": true
   },
@@ -3522,6 +3625,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-26 23:11:33 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/harpy": {
+    "criteria": {
+      "kill": "2025-05-26 23:58:37 +0000"
     },
     "done": true
   },
