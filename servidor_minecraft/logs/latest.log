@@ -21,3 +21,10 @@
 [27May2025 00:25:33.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! 3.0518142575748897,-6.315148294576112,7.658269281590265
 [27May2025 00:25:33.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tatoooo) moved too quickly! 3.286973873253558,-7.045173031335377,7.950058789918103
 [27May2025 00:37:50.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiraori30 hit the ground too hard
+[27May2025 00:49:04.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tatoooo was slain by Warden
+[27May2025 00:52:21.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tatoooo fell from a high place
+[27May2025 00:54:49.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiraori30 was slain by Warden
+[27May2025 00:55:23.687] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tatoooo lost connection: Disconnected
+[27May2025 00:55:23.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tatoooo left the game
+[27May2025 00:55:35.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shiraori30 lost connection: Disconnected
+[27May2025 00:55:35.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shiraori30 left the game
